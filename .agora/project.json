@@ -1,0 +1,7 @@
+{
+  "projectId": "Zlzkrph89",
+  "projectName": "Default Project",
+  "region": "global",
+  "template": "nextjs",
+  "envPath": ".env.local"
+}
